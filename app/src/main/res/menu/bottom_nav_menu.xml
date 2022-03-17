@@ -9,12 +9,12 @@
     <item
         android:id="@+id/navigation_dashboard"
         android:icon="@drawable/ic_asset_clipboard"
-        android:title="@string/title_dashboard" />
+        android:title="Transaksi" />
 
     <item
         android:id="@+id/navigation_keranjang"
-        android:icon="@drawable/ic_shopping_cart"
-        android:title="Keranjang" />
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="Bantuan" />
 
     <item
         android:id="@+id/navigation_notifications"
